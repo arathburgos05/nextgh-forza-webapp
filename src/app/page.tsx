@@ -17,7 +17,7 @@ export default function Home() {
             Bienvenido Gustavo :)
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Esta es la página principal.
           </li>
         </ol>
 
