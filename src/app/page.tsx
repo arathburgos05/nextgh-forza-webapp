@@ -17,7 +17,7 @@ export default function Home() {
             Bienvenido Gustavo :)
           </li>
           <li className="tracking-[-.01em]">
-            Esta es la página principal.
+            Esto es otra prueba
           </li>
         </ol>
 
