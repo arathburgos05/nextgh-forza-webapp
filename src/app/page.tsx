@@ -1,4 +1,4 @@
-import Image from "next/image";
+aimport Image from "next/image";
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
-            Bienvenido Gustavo :)
+            Esta es uan prueba
           </li>
           <li className="tracking-[-.01em]">
             Esto es otra prueba
